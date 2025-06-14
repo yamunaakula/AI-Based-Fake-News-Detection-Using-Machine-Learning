@@ -20,3 +20,11 @@ To install the required packages:
 
 ```bash
 pip install -r requirements.txt
+
+## 📸 Screenshots
+
+### ✅ Real News Prediction
+![Real News](screenshots/real_news.png)
+
+### ❌ Fake News Prediction
+![Fake News](screenshots/fake_news.png)
